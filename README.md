@@ -15,7 +15,7 @@ visualises energy mix trends.
   visualisations
 
 ## Results
-![Energy Mix Charts](energy_mix_charts.png)
+![Energy Mix Charts](charts.png)
 
 ## Key findings
 - Wind and gas dominate the UK generation mix
